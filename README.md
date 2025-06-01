@@ -10,9 +10,20 @@
 
 ![explorer_XOeMvt4JdK](https://github.com/user-attachments/assets/da30d5e0-d490-461e-bf4b-dd87aa291e65)
 
+# Q: Как мне скачать файл hosts?
+# A: 
 
+1.
 
+![chrome_cpXXtfUX9e](https://github.com/user-attachments/assets/c87db831-fe37-48e9-91c2-ebedce309690)
 
+Нажмите по файлу hosts
+
+2.
+
+![UsgsTfuCgt](https://github.com/user-attachments/assets/f6239e4b-d361-4623-abcf-fa5c3e754c57)
+
+Нажмите на кнопку которая отмеченна красный квадратом на скриншоте.
 
 # Q: Что такое hosts и как оно работает?
 # A: hosts — это текстовый документ, в котором прописаны соответствия доменов IP-адресам. Когда вы вводите домен в адресной строке браузера, в первую очередь запрос IP-адреса отправляется к файлу hosts. Если в нем не прописана информация об искомом сайте, запрос перенаправляется к системе DNS.
