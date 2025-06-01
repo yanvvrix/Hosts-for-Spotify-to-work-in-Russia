@@ -6,11 +6,12 @@
 
 # Q&A
 # Q: Куда мне вставлять текст из hosts?
-# A: Открываете блокнот от имени администратора, открываете файл hosts.txt, находится в C:\Windows\System32\drivers\etc, удаляете содержимое и вставляете текст из hosts, или можно просто заменить файл.
+# A: Открываете папку по пути: C:\Windows\System32\drivers\etc, удаляете hosts и вставляете скачаный hosts.
 
-![TC9bQvbpMY](https://github.com/user-attachments/assets/c509c6f3-530d-4370-8be0-ae78a4064a6a)
+![explorer_XOeMvt4JdK](https://github.com/user-attachments/assets/da30d5e0-d490-461e-bf4b-dd87aa291e65)
 
-![QWTi42VXaR](https://github.com/user-attachments/assets/bc363155-8350-437a-93ca-f40e6e585215)
+
+
 
 
 # Q: Что такое hosts и как оно работает?
