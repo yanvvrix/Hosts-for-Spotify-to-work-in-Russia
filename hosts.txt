@@ -19,14 +19,15 @@
 # localhost name resolution is handled within DNS itself.
 #	127.0.0.1       localhost
 #	::1             localhost
-63.141.252.206 gew1-spclient.spotify.com
-63.141.252.206 login5.spotify.com
-63.141.252.206 spotify.com
-63.141.252.206 api.spotify.com
-63.141.252.206 appresolve.spotify.com
-63.141.252.206 accounts.spotify.com
-63.141.252.206 aet.spotify.com
-63.141.252.206 open.spotify.com
-63.141.252.206 spotifycdn.com
-63.141.252.206 www.spotify.com
-63.141.252.206 spotifycdn.com
+35.186.224.24 gew1-spclient.spotify.com
+35.186.224.24 login5.spotify.com
+35.186.224.24 spotify.com
+35.186.224.24 api.spotify.com
+35.186.224.24 appresolve.spotify.com
+35.186.224.24 accounts.spotify.com
+35.186.224.24 aet.spotify.com
+35.186.224.24 open.spotify.com
+35.186.224.24 spotifycdn.com
+35.186.224.24 www.spotify.com
+35.186.224.24 spotifycdn.com
+35.186.224.24 chatgpt.com
