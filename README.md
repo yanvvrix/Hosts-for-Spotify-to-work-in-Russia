@@ -23,6 +23,7 @@
 
 ![UsgsTfuCgt](https://github.com/user-attachments/assets/f6239e4b-d361-4623-abcf-fa5c3e754c57)
 
+
 # Нажмите на кнопку которая отмеченна красный квадратом на скриншоте.
 
 # Q: Что такое hosts и как оно работает?
